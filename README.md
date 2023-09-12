@@ -48,4 +48,4 @@ Generated password: Ab!2cD3eF*4$
 
 If you found this helpful, please consider:
 
-- **Buymeacoffee:** [Link](http://buymeacoffee.com/alteredadmin
+- **Buymeacoffee:** [Link](http://buymeacoffee.com/alteredadmin]
